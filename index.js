@@ -1,5 +1,6 @@
 function shout(string) {
   return string.toUpperCase()
+<<<<<<< HEAD
 }
 
 function whisper(string) {
@@ -23,3 +24,6 @@ function sayHiToGrandma(string) {
 sayHiToGrandma(hello).toLowerCase()
 sayHiToGrandma(hello).toUpperCase()
 sayHiToGrandma('I love you, Grandma.')
+=======
+}
+>>>>>>> 33a1ecee2b1a15488358691d8a42dcf35ab3cf23
